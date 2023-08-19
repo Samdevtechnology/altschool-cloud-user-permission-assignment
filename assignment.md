@@ -1,6 +1,6 @@
 # Alt School Africa - User Permission (Solution)
 
-This is a solution to the Alt school (Cloud Engineering) Assignment. The Assignment is aimed at helping students better understand User and Group permission in Linix.
+This is a solution to the Alt school (Cloud Engineering) Assignment. The Assignment is aimed at helping students better understand User and Group permission in Linux.
 
 ## Table of contents
 
